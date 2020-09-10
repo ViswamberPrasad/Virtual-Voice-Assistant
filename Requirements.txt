@@ -1,0 +1,8 @@
+pip install the required packages and modules.
+BeautifulSoup for webscraping,
+pyttsx3 for text to speech conversion,
+speech_recognition to listen and parse user's input,
+SMTP to send emails,
+HTTP requests(JSON)for other API's,
+NLTK for emotion analysis(NLP),
+wolframaplha and wikipedia API's.
