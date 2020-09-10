@@ -183,7 +183,7 @@ def main_func(command):
 		body=lis_ten()	
 		talk('To Whom should I send it?')
 		receiver_mail_id=lis_ten()
-		smtp_obj=smtplib.SMTP('smtp.gmail.com',587)
+		smtp_obj=smtplib.SMTP('')
 		smtp_obj.ehlo()
 		smtp_obj.starttls()
 		app_password=''
