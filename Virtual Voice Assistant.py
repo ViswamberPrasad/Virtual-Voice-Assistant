@@ -1,3 +1,7 @@
+#author
+#Viswamber Prasad
+#viswamberprasad21@gmail.com
+
 import wolframalpha
 import wikipedia
 import smtplib
